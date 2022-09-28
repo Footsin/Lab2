@@ -8,7 +8,7 @@
 # Запуск в ручном режиме
 python3 app.py
 # Запуск в ручном режиме с отладкой
-"python3 app.py debug"
+""python3 app.py debug""
 # Запуск в тестовом режиме
 python3 app.py test
 # Запуск в тестовом режиме с отладкой
